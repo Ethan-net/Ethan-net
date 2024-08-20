@@ -7,7 +7,7 @@
 I'm a passionate **Frond End and Mobile App Developer** with experience in **React Native**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **Javascript, React, HTML, React-Native**
-- 🔭 Working on: **[current projects or side-projects]**
+- 🔭 Working on: **current projects or side-projects**
 - 🌍 Languages: **Javascript, React, HTML, React-Native and Human Language**
 - 📫 How to reach me: **koredeajibola@gmail.com**
 - ⚡ Fun fact: **i'm a computer enthusiast**
