@@ -38,6 +38,6 @@ I'm a passionate **Frond End and Mobile App Developer** with experience in **Rea
 
 ## Get in Touch 📬
 
-- **wealthgene.blogspot.com**
+- **wealthgene**
 - **https://www.linkedin.com/in/korede-ajibola-2a53981b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app**
 - **https://x.com/Ethannets?t=A7Dx2IX9Fm7Hu1CTRb6spg&s=09**
