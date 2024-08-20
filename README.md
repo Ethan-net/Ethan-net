@@ -1,16 +1,16 @@
 # Hi there, I'm Korede Ajibola! 👋
 
-![Banner Image](your_banner_image_url_here)
+![Banner Image](https://avatars.githubusercontent.com/u/178894255?s=400&u=147997854c2e91473ec5537b939683c1068901c1&v=4)
 
 ## About Me 🚀
 
-I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **Frond End and Mobile App Developer** with experience in **React Native**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
+- 🌱 Currently learning: **Javascript, React, HTML, React-Native**
 - 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+- 🌍 Languages: **Javascript, React, HTML, React-Native and Human Language**
+- 📫 How to reach me: **koredeajibola@gmail.com**
+- ⚡ Fun fact: **i'm a computer enthusiast**
 
 ## My Skills 🧠
 
@@ -38,6 +38,6 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+- **wealthgene.blogspot.com**
+- **https://www.linkedin.com/in/korede-ajibola-2a53981b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app**
+- **https://x.com/Ethannets?t=A7Dx2IX9Fm7Hu1CTRb6spg&s=09**
