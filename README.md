@@ -6,8 +6,6 @@
 
 I'm a passionate **Frond End and Back end Developer** with experience in **React**, **Javascript**,. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **Javascript, Node.js**
-- 🔭 Working on: **current projects or side-projects**
 - 🌍 Languages: **Javascript, React, HTML, React-Native and Human Language**
 - 📫 How to reach me: **koredeajibola@gmail.com**
 - ⚡ Fun fact: **i'm a computer enthusiast**
